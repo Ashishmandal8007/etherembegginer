@@ -1,5 +1,5 @@
 # etherembegginer
-# Token contract
+# myToken contract
 Solidity-based token contract application created in the Ethereum programming language. A token contract's fundamental implementation is provided by this code. Its function is to make it possible to mint and burn tokens, respectively. This code is used to manage a basic token system that may be applied to many other things, such as developing digital assets, incentive programs, or decentralized financial protocols.
 
 # Description
